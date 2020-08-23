@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sterling Talent Solutions Screening Direct">
+
+	<listeners>
+		<listener class-name="com.sterlingts.qa.util.TestListener" />
+		<listener
+			class-name="com.sterlingts.qa.util.ExtentReportsClass" />
+	</listeners>
+
+
+	<test name="Screening Direct">
+		<classes>
+			<class name="com.sterlingts.qa.testcases.SDLoginTest"></class>
+		
+
+		</classes>
+	</test>
+</suite>

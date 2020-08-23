@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Sterling Talent Solutions Screening Direct]">
+  <listeners>
+    <listener class-name="com.sterlingts.qa.util.TestListener"/>
+    <listener class-name="com.sterlingts.qa.util.ExtentReportsClass"/>
+  </listeners>
+  <test thread-count="5" name="Screening Direct(failed)">
+    <classes>
+      <class name="com.sterlingts.qa.testcases.EInviteWFDONTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="verifyEInviteWFDON"/>
+          <include name="afterSuiteComplete"/>
+        </methods>
+      </class> <!-- com.sterlingts.qa.testcases.EInviteWFDONTest -->
+    </classes>
+  </test> <!-- Screening Direct(failed) -->
+</suite> <!-- Failed suite [Sterling Talent Solutions Screening Direct] -->

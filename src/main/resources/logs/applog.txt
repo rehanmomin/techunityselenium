@@ -1,0 +1,11 @@
+DEBUG   2020-01-07 19:59:09,090 [main] com.sterlingts.qa.testcases.rough  - opening webiste
+DEBUG   2020-01-07 19:59:09,101 [main] com.sterlingts.qa.testcases.rough  - entring weight
+DEBUG   2020-01-07 19:59:11,311 [main] com.sterlingts.qa.testcases.rough  - selecting kilograms
+DEBUG   2020-01-07 19:59:11,641 [main] com.sterlingts.qa.testcases.rough  - selecting height in feet
+DEBUG   2020-01-07 19:59:11,886 [main] com.sterlingts.qa.testcases.rough  - selecting height in inchs
+DEBUG   2020-01-07 19:59:12,081 [main] com.sterlingts.qa.testcases.rough  - Clicking on calculate
+DEBUG   2020-01-07 19:59:12,359 [main] com.sterlingts.qa.testcases.rough  - Getting SIUnit value
+DEBUG   2020-01-07 19:59:12,448 [main] com.sterlingts.qa.testcases.rough  - Getting USUnit value
+DEBUG   2020-01-07 19:59:12,519 [main] com.sterlingts.qa.testcases.rough  - Getting UKUnit value
+DEBUG   2020-01-07 19:59:12,581 [main] com.sterlingts.qa.testcases.rough  - Getting overall description
+INFO    2020-01-07 19:59:12,651 [main] com.sterlingts.qa.testcases.rough  - Information
